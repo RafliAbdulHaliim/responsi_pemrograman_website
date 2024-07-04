@@ -11,7 +11,7 @@
                   <div class="d-flex flex-column align-items-center text-center">
                     <img src="https://res.cloudinary.com/du0tsletf/image/upload/v1720026017/pp2_isb7mg.png" alt="Admin" class="object-fit-cover rounded-circle" width="150"height="150">
                     <div class="mt-3">
-                      <h4>hj.Rafli Abdul Haliim</h4>
+                      <h4>Rafli Abdul Haliim</h4>
                       <p class="text-secondary mb-1">MAHASISWA</p>
                       <p class="text-muted font-size-sm">Kost, Belakang Kantin</p>
                       <button class="btn btn-primary">Follow</button>
@@ -105,19 +105,19 @@
                       <h6 class="d-flex align-items-center mb-3">Project Status</h6>
                       <small>Web Design</small>
                       <div class="progress mb-3" style="height: 5px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar bg-primary" role="progressbar" style="width: 10%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                       <small>Website Markup</small>
                       <div class="progress mb-3" style="height: 5px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar bg-primary" role="progressbar" style="width: 20%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                       <small>One Page</small>
                       <div class="progress mb-3" style="height: 5px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar bg-primary" role="progressbar" style="width: 30%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                       <small>Mobile Template</small>
                       <div class="progress mb-3" style="height: 5px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar bg-primary" role="progressbar" style="width: 40%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                       <small>Backend API</small>
                       <div class="progress mb-3" style="height: 5px">
